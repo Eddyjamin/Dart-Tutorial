@@ -1,15 +1,12 @@
-
-
 void main() {
+  // This is my first line of code
+  print("Hello World"); // this is another comment ....
 
-	// This is my first line of code
-	print("Hello World"); 			// this is another comment ....
+  print("This is my first application");
 
-	print("This is my first application");
+  // Performing arithematic operation
+  print(20 / 4);
 
-	// Performing arithematic operation
-	print(12 / 4);
-
-	// Printing out boolean value
-	print(false);
+  // Printing out boolean value
+  print(false);
 }
